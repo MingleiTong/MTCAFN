@@ -1,7 +1,7 @@
 # MTCAFN
 The scripts are uesd for Keras and Tensorflow(backend). 
 
-Data Setup
+Data Setup:
 1. Download ShanghaiTech Dataset from  
 Dropbox: https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0  
 or Baidu Disk: http://pan.baidu.com/s/1nuAYslz  
