@@ -2,7 +2,8 @@
 The scripts are uesd for Keras and Tensorflow(backend). 
 
 Dataset:  
-We used ShanghaiTech dataset which can be downloaded at  https://github.com/svishwa/crowdcount-mcnn
+We used ShanghaiTech Dataset which can be downloaded at  https://github.com/svishwa/crowdcount-mcnn  
+Crowd Counting Dataset can be downloaded at http://crcv.ucf.edu/data/ucf-cc-50/  
 
 Hardware:  
 GTX TITAN XPascal  
